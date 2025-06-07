@@ -1439,7 +1439,7 @@ const initialCvData = {
       date: "2022-2023",
       description_en: "Contributed to public relations and marketing efforts, with responsibility for the website and other communication channels",
       description_no: "Bidro til PR- og markedsføringsarbeidet, med ansvar for netusiden og andre kommunikasjonskanaler",
-      logo: "https://placehold.co/60x60/FF5733/FFFFFF?text=SC", // Placeholder for Sampolkonferansen logo
+      logo: "Sampolkonferansen logo 2024.jpeg", // Placeholder for Sampolkonferansen logo
     },
     {
       id: "role3",
@@ -1479,7 +1479,7 @@ const initialCvData = {
       date: "2024-Present",
       description_en: "Responsible to key individuals, and for developing communication strategies for use on various political parties.",
       description_no: "Ansvarlig overfor sentrale personer og for å utvikle kommunikasjonsstrategier for bruk ovenfor ulike politiske partier.",
-      logo: "https://placehold.co/60x60/8B4513/FFFFFF?text=AB", // Placeholder for Arkitekturopprøret Bergen logo
+      logo: "Arkitekturopprøret Bergen logo.jpg", // Placeholder for Arkitekturopprøret Bergen logo
     },
   ],
   skills: [
